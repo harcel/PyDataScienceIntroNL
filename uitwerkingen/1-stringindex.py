@@ -1,0 +1,6 @@
+print("De index van de P is", zin.index("P"))
+print(zin[0])
+print(zin[-1])  # Of: print(zin[len(zin)-1])
+print(zin[zin.index('is'):])
+print(zin[::2]) # Of, als je 0 geen even getal vindt: print(zin[2::2])
+print(zin[:0:-1])
