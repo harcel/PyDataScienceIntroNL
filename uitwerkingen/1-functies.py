@@ -1,16 +1,16 @@
 def pluszeven(getal):
-    """Deze functie telt zeven op bij 'getal' op.
-    Aanroep: result = pluszeven(getal).
-    """
+    # Deze functie telt zeven op bij 'getal' op.
     return getal + 7
 
 def sommetje(begin):
-    """
-    """
+    # Als het een integer is, dan oneven getallen met 3 vermenigvuldigen,
+    # en even getallen met 2.
     if type(begin) == int:
         return 3*begin if begin %2 else 2*begin
+    # Als het een string is met 2 vermenigvuldigen
     elif type(begin) == str:
         return 2*begin
+    # En als het dat allemaal niet is, tsja...
     else: 
         print("Ik weet niet wat ik moet doen als ik geen integer of string krijg....")
         
