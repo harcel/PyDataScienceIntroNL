@@ -44,3 +44,5 @@ pp.imshow(number, cmap='Greys')
 pp.set_xticklabels([])
 pp.set_yticklabels([])
 pp.set_title("Oorspronkelijke digit");
+
+print("Nog lang zo slecht niet!")
