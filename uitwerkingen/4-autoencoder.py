@@ -13,7 +13,7 @@ print("Dimensies van x:", x.shape)
 print("Dimensies van y:", y.shape)
 
 # Maak ruis op de test set
-n_pixels = np.product(x.shape)
+n_pixels = x.size
 
 # Als ruis gebruik ik uniform verdeelde random getallen tussen -4 en 0. 
 # Deze zijn de logaritme van de ruiswaarde in elke pixel.
