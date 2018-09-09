@@ -1,4 +1,4 @@
-Materiaal dat hoort bij de cursus "Introductie: Data Science met Python".
+# Materiaal bij de cursus "Introductie: Data Science met Python".
 
 Het cursusmateriaal is ontwikkeld in Python 3.6.6 en getest met de volgende versies van packages:
 - bokeh 0.13.0
