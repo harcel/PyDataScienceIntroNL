@@ -22,7 +22,7 @@ for i,x in enumerate([X, X1, X2]):
     plt.legend(frameon=True, fontsize=10, markerscale=2 )
     
 hier = AgglomerativeClustering()
-for i,x in enumerate([X0, X1, X2]):
+for i,x in enumerate([X, X1, X2]):
     labels = hier.fit_predict(x)
     plt.subplot(2,3,i+4)
     plt.scatter(x[:, 0], x[:, 1], c= labels, s=20)
