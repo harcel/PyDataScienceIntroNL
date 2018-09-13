@@ -5,8 +5,9 @@ De cursus bestaat uit instructie (mbv de PDF presentaties, het instructienoteboo
 Voor sommige opdrachten wordt er live nog data bij gehaald die niet in deze repository zit. Deze komt in de data directory terecht, maar hiervoor heb je uiteraard wel een internetverbinding nodig.
 
 Er wordt vanuit gegaan dat je een recente versie van de Anaconda stack met Python 3.6+ hebt geinstalleerd. Het cursusmateriaal is ontwikkeld in Python 3.6.6 en getest met de volgende versies van packages (in alfabetische volgorde):
+- altair 2.2.2
 - bokeh 0.13.0
-- matplotlib 2.2.2
+- matplotlib 2.2.3
 - numpy 1.15.1
 - pandas 0.23.4
 - scikit-learn 0.19.1
