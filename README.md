@@ -14,6 +14,7 @@ Er wordt vanuit gegaan dat je een recente versie van de Anaconda stack met Pytho
 - scipy 1.1.0
 - seaborn 0.9.0
 - tensorflow 1.10.0
+
 We werken in de cursus vanuit Jupyter Labs, maar ook Jupyter Notebooks zijn geschikt. Voor andere omgevingen (IPython, Spyder, PyCharm, ...) is het materiaal minder geschikt.
 
 Bij vragen over de cursus of het materiaal: datascience@marcelhaas.com
