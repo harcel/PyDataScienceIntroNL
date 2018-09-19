@@ -1,4 +1,4 @@
-# Materiaal bij de cursus "Introductie: Data Science met Python".
+# Materiaal bij de cursus "Introductie: Python voor Data Science".
 
 De cursus bestaat uit instructie (mbv de PDF presentaties, het instructienotebook en live coding), opdrachten en huiswerk. Van de laatste twee bestaan modeluitwerkingen. Deze uitwerkingen bevinden zich in de betreffende directory en worden in de notebooks ingeladen. Al het materiaal zou moeten werken ongeacht het operating system van je computer.
 
