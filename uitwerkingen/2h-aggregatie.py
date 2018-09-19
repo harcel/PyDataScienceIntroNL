@@ -1,6 +1,6 @@
 # Voer de regels een voor een uit om de resultaten te zien.
 planets.describe()
-planets.groupby('method')['year'].describe()   # count is nu het aantal met de bterffende methode.
+planets.groupby('method')['year'].describe()   # count is nu het aantal met de betreffende methode.
 planets.groupby('year')[['mass', 'distance']].aggregate(['min', np.median])
 
 decennium = 10 * (planets['year'] // 10)   # // is "floor division"
