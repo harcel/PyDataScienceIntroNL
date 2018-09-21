@@ -1,6 +1,6 @@
 # Materiaal bij de cursus "Introductie: Python voor Data Science".
 
-De cursus bestaat uit instructie (mbv de PDF presentaties, het instructienotebook en live coding), opdrachten en huiswerk. Van de laatste twee bestaan modeluitwerkingen. Deze uitwerkingen bevinden zich in de betreffende directory en worden in de notebooks ingeladen. Al het materiaal zou moeten werken ongeacht het operating system van je computer.
+De cursus bestaat uit instructie (mbv de PDF presentaties, het instructienotebook en live coding), opdrachten en huiswerk. Van de laatste twee bestaan modeluitwerkingen. Deze uitwerkingen bevinden zich in de betreffende directory en worden in de notebooks ingeladen. Al het materiaal zou moeten werken ongeacht het operating system van je computer. De instructie is niet het volledige cursusmateriaal, de opgaven en het huiswerk (met bijbehorende uitwerkingen) zijn wezenlijke uitbreidingen van het materiaal in de instructies en presentaties. 
 
 Voor sommige opdrachten wordt er live nog data bij gehaald die niet in deze repository zit. Deze komt in de data directory terecht, maar hiervoor heb je uiteraard wel een internetverbinding nodig.
 
@@ -17,7 +17,7 @@ Er wordt vanuit gegaan dat je een recente versie van de Anaconda stack met Pytho
 
 De packages met een sterretje zijn potentieel niet direct met de Anaconda stack geinstalleerd. Als je in een terminal typt: "conda install altair tensorflow vega_datasets" dan worden deze packages en hun dependencies geinstalleerd.
 
-We werken in de cursus vanuit Jupyter Labs, maar ook Jupyter Notebooks zijn geschikt. Voor andere omgevingen (IPython, Spyder, PyCharm, ...) is het materiaal minder geschikt.
+We werken in de cursus vanuit Jupyter Labs, maar ook Jupyter Notebooks zijn geschikt (met iets meer moeite in het onderdeel visualisatie). Voor andere omgevingen (IPython, Spyder, PyCharm, ...) is het materiaal minder geschikt.
 
 Bij vragen over de cursus of het materiaal: datascience@marcelhaas.com
 
